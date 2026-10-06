@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/shri-radha.png" alt="श्री राधा" width="200">
+</p>
+
 # Redis Java Connectivity Self-Test
 
 Minimal Maven/Java project to verify connectivity to Redis Enterprise or Redis Cloud using Jedis.
